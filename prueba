@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:1,  Garage
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
+rtsp://admin:L3TM31N0@192.168.0.2:554/h264/Ch1/sub/av_stream
