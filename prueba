@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:1,  Garage
-rtsp://admin:L3TM31N0@192.168.0.2:554/h264/Ch1/sub/av_stream
+http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=112&p=3&k=srregio&f=.m3u8%20%20
